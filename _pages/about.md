@@ -23,7 +23,7 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
   </div>
 </div>
 
----
+
 
 <span id="publications"></span>
 ## 📝 Publications
@@ -36,7 +36,7 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
   </div>
 </div>
 
----
+
 
 <span id="talks"></span>
 ## 💬 Presentations and Talks
@@ -47,7 +47,7 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
   </div>
 </div>
 
----
+
 
 <span id="teaching"></span>
 ## 🎓 Teaching
