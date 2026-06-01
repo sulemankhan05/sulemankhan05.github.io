@@ -101,4 +101,17 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-   
+
+/* --- Stretch Content Boxes to the Right --- */
+
+/* 1. Expand the maximum container width limit */
+#main {
+  max-width: 1300px !important; 
+}
+
+/* 2. Force the right-hand content area to take up more space */
+@media (min-width: 64em) {
+  .page__content {
+    width: 78% !important; 
+  }
+}
