@@ -9,7 +9,7 @@ redirect_from:
 
 I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https://www.uoguelph.ca/) with specialization in Artificial Intelligence by the [Vector Institute](https://vectorinstitute.ai/) under supervision of Dr. Yan Yan and Dr. Wenjun Lin. During my masters, I also worked as a Research Assistant at the Digital Innovation Lab at Algoma University under the supervision of Dr. Wenjun Lin. My master's research focuses on Agentic Information Retrieval for Healthcare. I conducted research for [Ontario Health](https://www.ontariohealth.ca/).
 
----
+
 
 <span id="news"></span>
 ## 📰 News
@@ -23,7 +23,7 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
   </ul>
 </div>
 
----
+
 
 <span id="publications"></span>
 ## 📝 Publications
@@ -36,7 +36,7 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
   </ul>
 </div>
 
----
+
 
 <span id="talks"></span>
 ## 💬 Presentations and Talks
@@ -47,7 +47,7 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
   </ul>
 </div>
 
----
+
 
 <span id="teaching"></span>
 ## 🎓 Teaching
