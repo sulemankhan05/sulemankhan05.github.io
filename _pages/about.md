@@ -29,7 +29,8 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
 
 <div style="max-height: 220px; overflow-y: auto; width: 100%; margin-bottom: 20px;">
   <ul style="margin: 0; padding-left: 20px; line-height: 1.6;">
-    <li style="margin-bottom: 10px;">*Your First Paper Title Here* <strong>Suleman Khan</strong>, Co-authors...<br><em>Conference or Journal Name, 2026</em></li>
+    <li style="margin-bottom: 10px;">LESA: LLM-based Search Assistant for Healthcare Information Retrieval <strong>Suleman Khan</strong>, Gabriel Moterani, Wenjun Lin, Yan Yan<br><em>Artificial Intelligence, Information Processing & Cloud Computing (Generative Search Proceedings), 2025</em></li>
+    <li style="margin-bottom: 10px;">HEX: Agentic Framework for Closed-domain Web Tables Generation <strong>Suleman Khan</strong>, Teryn Bruni, Wenjun Lin, Yan Yan<br><em>Knowledge Discovery & Data Mining (KDD) - Agent4IR , 2026</em></li>
   </ul>
 </div>
 
@@ -40,8 +41,6 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
 
 <div style="max-height: 220px; overflow-y: auto; width: 100%; margin-bottom: 20px;">
   <ul style="margin: 0; padding-left: 20px; line-height: 1.6;">
-    <li style="margin-bottom: 10px;">*Your First Talk Title Here* <em>Event, Location, or Conference Name, 2026</em></li>
-  </ul>
 </div>
 
 ---
@@ -51,6 +50,9 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
 
 <div style="max-height: 220px; overflow-y: auto; width: 100%; margin-bottom: 20px;">
   <ul style="margin: 0; padding-left: 20px; line-height: 1.6;">
-    <li style="margin-bottom: 10px;"><strong>Teaching Assistant</strong>, Course Name<br><em>University of Guelph, Fall 2025</em></li>
+     <li style="margin-bottom: 10px;"><strong>Teaching Assistant</strong>, CIS*3490 The Analysis and Design of Algorithms <br><em>University of Guelph, Winter 2025</em></li>
+    <li style="margin-bottom: 10px;"><strong>Teaching Assistant</strong>, CIS*2030 Micro-computers <br><em>University of Guelph, Fall 2025</em></li>
+    <li style="margin-bottom: 10px;"><strong>Teaching Assistant</strong>, CIS*3750 System Analysis & Design <br><em>University of Guelph, Winter 2025</em></li>
+    <li style="margin-bottom: 10px;"><strong>Teaching Assistant</strong>, CIS*2030 Micro-computers <br><em>University of Guelph, Fall 2024</em></li>
   </ul>
 </div>
