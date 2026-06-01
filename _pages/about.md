@@ -14,14 +14,13 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
 <span id="news"></span>
 ## 📰 News
 
-<div style="max-height: 220px; overflow-y: auto; width: 100%; margin-bottom: 20px;">
+<div style="max-height: 220px; overflow-y: auto; width: 100%; font-size: 0.95rem; margin-bottom: 25px;">
   <ul style="margin: 0; padding-left: 20px; line-height: 1.6;">
-    <li><strong>[2026/05]</strong> Starting my PhD. in Computer Engineering at the University of Guelph under supervision of Dr. Fattane Zarrinkalam, from Fall 2026. </li>
-    <li><strong>[2024/09]</strong> Joined Digital Innovation Lab as a Research Assistant at the Algoma University under supervision of Dr. Wenjun Lin. </li>
-    <li><strong>[2024/09]</strong> Joined collaborative specialization in Artifical Intelligence for my M.Sc. by the Vector Institute. </li>
-    <li><strong>[2024/09]</strong> Started my M.Sc. in Computer Science at the University of Guelph under supervision of Dr. Yan Yan. </li>
-
-    
+    <li><strong>[2026/06]</strong> Renewed my contract as a Research Assistant for an additional [Number] months.</li>
+    <li><strong>[2026/05]</strong> Starting my PhD. in Computer Engineering at the University of Guelph under supervision of Dr. Fattane Zarrinkalam, from Fall 2026.</li>
+    <li><strong>[2024/09]</strong> Joined Digital Innovation Lab as a Research Assistant at the Algoma University under supervision of Dr. Wenjun Lin.</li>
+    <li><strong>[2024/09]</strong> Joined collaborative specialization in Artificial Intelligence for my M.Sc. by the Vector Institute.</li>
+    <li><strong>[2024/09]</strong> Started my M.Sc. in Computer Science at the University of Guelph under supervision of Dr. Yan Yan.</li>
   </ul>
 </div>
 
@@ -30,10 +29,10 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
 <span id="publications"></span>
 ## 📝 Publications
 
-<div style="max-height: 220px; overflow-y: auto; width: 100%; margin-bottom: 20px;">
+<div style="max-height: 220px; overflow-y: auto; width: 100%; font-size: 0.95rem; margin-bottom: 25px;">
   <ul style="margin: 0; padding-left: 20px; line-height: 1.6;">
-    <li style="margin-bottom: 10px;">LESA: LLM-based Search Assistant for Healthcare Information Retrieval <strong>Suleman Khan</strong>, Gabriel Moterani, Wenjun Lin, Yan Yan<br><em>Artificial Intelligence, Information Processing & Cloud Computing (Generative Search Proceedings), 2025</em></li>
-    <li style="margin-bottom: 10px;">HEX: Agentic Framework for Closed-domain Web Tables Generation <strong>Suleman Khan</strong>, Teryn Bruni, Wenjun Lin, Yan Yan<br><em>Knowledge Discovery & Data Mining (KDD) - Agent4IR , 2026</em></li>
+    <li style="margin-bottom: 12px;"><strong>LESA: LLM-based Search Assistant for Healthcare Information Retrieval</strong><br><strong>Suleman Khan</strong>, Gabriel Moterani, Wenjun Lin, Yan Yan<br><span style="color: #57606a;"><em>Artificial Intelligence, Information Processing & Cloud Computing (Generative Search Proceedings), 2025</em></span></li>
+    <li style="margin-bottom: 12px;"><strong>HEX: Agentic Framework for Closed-domain Web Tables Generation</strong><br><strong>Suleman Khan</strong>, Teryn Bruni, Wenjun Lin, Yan Yan<br><span style="color: #57606a;"><em>Knowledge Discovery & Data Mining (KDD) - Agent4IR, 2026</em></span></li>
   </ul>
 </div>
 
@@ -42,8 +41,10 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
 <span id="talks"></span>
 ## 💬 Presentations and Talks
 
-<div style="max-height: 220px; overflow-y: auto; width: 100%; margin-bottom: 20px;">
+<div style="max-height: 220px; overflow-y: auto; width: 100%; font-size: 0.95rem; margin-bottom: 25px;">
   <ul style="margin: 0; padding-left: 20px; line-height: 1.6;">
+    <li><em>Your upcoming presentation or talk title will go here!</em></li>
+  </ul>
 </div>
 
 ---
@@ -51,11 +52,11 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
 <span id="teaching"></span>
 ## 🎓 Teaching
 
-<div style="max-height: 220px; overflow-y: auto; width: 100%; margin-bottom: 20px;">
+<div style="max-height: 220px; overflow-y: auto; width: 100%; font-size: 0.95rem; margin-bottom: 25px;">
   <ul style="margin: 0; padding-left: 20px; line-height: 1.6;">
-     <li style="margin-bottom: 10px;"><strong>Teaching Assistant</strong>, CIS*3490 The Analysis and Design of Algorithms <br><em>University of Guelph, Winter 2026</em></li>
-    <li style="margin-bottom: 10px;"><strong>Teaching Assistant</strong>, CIS*2030 Micro-computers <br><em>University of Guelph, Fall 2025</em></li>
-    <li style="margin-bottom: 10px;"><strong>Teaching Assistant</strong>, CIS*3750 System Analysis & Design <br><em>University of Guelph, Winter 2025</em></li>
-    <li style="margin-bottom: 10px;"><strong>Teaching Assistant</strong>, CIS*2030 Micro-computers <br><em>University of Guelph, Fall 2024</em></li>
+    <li style="margin-bottom: 10px;"><strong>Teaching Assistant</strong>, CIS*3490 The Analysis and Design of Algorithms<br><span style="color: #57606a;"><em>University of Guelph, Winter 2026</em></span></li>
+    <li style="margin-bottom: 10px;"><strong>Teaching Assistant</strong>, CIS*2030 Micro-computers<br><span style="color: #57606a;"><em>University of Guelph, Fall 2025</em></span></li>
+    <li style="margin-bottom: 10px;"><strong>Teaching Assistant</strong>, CIS*3750 System Analysis & Design<br><span style="color: #57606a;"><em>University of Guelph, Winter 2025</em></span></li>
+    <li style="margin-bottom: 10px;"><strong>Teaching Assistant</strong>, CIS*2030 Micro-computers<br><span style="color: #57606a;"><em>University of Guelph, Fall 2024</em></span></li>
   </ul>
 </div>
