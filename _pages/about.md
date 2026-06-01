@@ -16,9 +16,7 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
 
 <div style="max-height: 220px; overflow-y: auto; width: 100%; margin-bottom: 20px;">
   <ul style="margin: 0; padding-left: 20px; line-height: 1.6;">
-    <li style="margin-bottom: 10px;">
-    
-<li><strong>[2024/09]</strong> Started my M.Sc. in Computer Science at the University of Guelph with specialization in Artifical Intelligence by the Vector Institute.</li>
+    <li><strong>[2024/09]</strong> Started my M.Sc. in Computer Science at the University of Guelph with specialization in Artifical Intelligence by the Vector Institute.</li>
 
     
   </ul>
