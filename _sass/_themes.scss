@@ -102,16 +102,16 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
-/* --- Stretch Content Boxes to the Right --- */
+/* --- Stretch Layout Boxes to the Right --- */
 
-/* 1. Expand the maximum container width limit */
-#main {
-  max-width: 1300px !important; 
+/* 1. Expand the main outer wrapper to allow more horizontal room */
+.wrapper {
+  max-width: 1400px !important; /* Default is usually 1200px */
 }
 
-/* 2. Force the right-hand content area to take up more space */
+/* 2. Stretch the right side content block further right */
 @media (min-width: 64em) {
   .page__content {
-    width: 78% !important; 
+    width: 82% !important; /* Increases the content width next to your sidebar */
   }
 }
