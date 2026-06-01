@@ -16,7 +16,6 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
 
 <div style="max-height: 220px; overflow-y: auto; width: 100%; font-size: 0.95rem; margin-bottom: 25px;">
   <ul style="margin: 0; padding-left: 12px; list-style-position: inside; line-height: 1.6;">
-    <li style="margin-bottom: 8px;"><strong>[2026/06]</strong> Renewed my contract as a Research Assistant for an additional 3 months.</li>
     <li style="margin-bottom: 8px;"><strong>[2026/05]</strong> Starting my PhD. in Computer Engineering at the University of Guelph under supervision of Dr. Fattane Zarrinkalam, from Fall 2026.</li>
     <li style="margin-bottom: 8px;"><strong>[2024/09]</strong> Joined Digital Innovation Lab as a Research Assistant at the Algoma University under supervision of Dr. Wenjun Lin.</li>
     <li style="margin-bottom: 8px;"><strong>[2024/09]</strong> Joined collaborative specialization in Artificial Intelligence for my M.Sc. by the Vector Institute.</li>
