@@ -16,7 +16,10 @@ I am pursuing my M.Sc. in Computer Science at the [University of Guelph](https:/
 
 <div style="max-height: 220px; overflow-y: auto; width: 100%; margin-bottom: 20px;">
   <ul style="margin: 0; padding-left: 20px; line-height: 1.6;">
-    <li><strong>[2024/09]</strong> Started my M.Sc. in Computer Science at the University of Guelph with specialization in Artifical Intelligence by the Vector Institute.</li>
+    <li><strong>[2026/05]</strong> Starting my PhD. in Computer Engineering at the University of Guelph under supervision of Dr. Fattane Zarrinkalam, from Fall 2026. </li>
+    <li><strong>[2024/09]</strong> Joined Digital Innovation Lab as a Research Assistant at the Algoma University under supervision of Dr. Wenjun Lin. </li>
+    <li><strong>[2024/09]</strong> Joined collaborative specialization in Artifical Intelligence for my M.Sc. by the Vector Institute. </li>
+    <li><strong>[2024/09]</strong> Started my M.Sc. in Computer Science at the University of Guelph under supervision of Dr. Yan Yan. </li>
 
     
   </ul>
